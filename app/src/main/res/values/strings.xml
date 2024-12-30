@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Aplikasi Berita</string>
+    <string name="top_headline">Berita Utama</string>
+    <string name="news_images">gambar_berita</string>
+    <string name="business">Bisnis</string>
+    <string name="entertainment">Hiburan</string>
+    <string name="general">Umum</string>
+    <string name="health">Kesehatan</string>
+    <string name="science">Ilmu Pengetahuan</string>
+    <string name="sports">Olahraga</string>
+    <string name="technology">Teknologi</string>
+    <string name="this_is_imageview_reset">Ini adalah Pengaturan Ulang ImageView</string>
+    <string name="all_news">Semua Berita</string>
+    <string name="this_is_iv_all_news">Ini adalah iv semua berita</string>
+    <string name="search">Cari</string>
+    <string name="result_is_empty">Hasil Kosong</string>
+    <string name="connection_error">Kesalahan Koneksi</string>
+    <string name="server_error">Kesalahan Server</string>
+</resources>

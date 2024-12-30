@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AplikasiBerita" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/your_custom_primary_color</item>
+        <item name="colorPrimaryDark">@color/your_custom_primary_dark_color</item>
+        <item name="colorAccent">@color/your_custom_accent_color</item>
+        <!-- You can add more customizations here -->
+    </style>
+
+    <style name="Theme.AplikasiBerita" parent="Base.Theme.AplikasiBerita" />
+</resources>

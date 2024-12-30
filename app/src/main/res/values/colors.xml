@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="chip_selected_color">#65727272</color>
+    <color name="chip_unselected_color">#FFFFFFFF</color>
+    <color name="shimmer_color">#D8BFD8</color>
+
+
+    <color name="your_custom_primary_color">#FF4081</color>
+    <color name="your_custom_primary_dark_color">#F50057</color>
+    <color name="your_custom_accent_color">#00BCD4</color>
+    <!-- You can add more custom colors here -->
+
+</resources>
